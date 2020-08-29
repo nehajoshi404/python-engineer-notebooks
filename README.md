@@ -1,1 +1,2 @@
-# Collection of Jupyter Notebooks for the website
+# Collection of Jupyter Notebooks 
+Intermediate Python functions and concepts practise.
